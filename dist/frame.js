@@ -73,7 +73,7 @@ var containerVisibleClass = (0, _glamor.css)({
 
 var containerMinimizedClass = (0, _glamor.css)({
   cursor: "pointer",
-  transform: "translateX(94%)",
+  transform: "translateX(100%)",
   ":hover": {
     transform: "translateX(92%)"
   },
