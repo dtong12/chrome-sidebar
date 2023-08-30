@@ -1,6 +1,6 @@
-import Frame from './frame'
+import Frame from "./frame";
 
-export * from './frame'
-export * from './attach'
+export * from "./frame";
+export * from "./attach";
 
-export default Frame
+export default Frame;
