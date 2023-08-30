@@ -47,7 +47,7 @@ const containerVisibleClass = css({
 
 const containerMinimizedClass = css({
   cursor: "pointer",
-  transform: "translateX(94%)",
+  transform: "translateX(100%)",
   ":hover": {
     transform: "translateX(92%)",
   },
